@@ -38,5 +38,5 @@
 
 ---
 
-⭐ **"Every great developer was once a beginner!"** 🚀  
+⭐ 
 
