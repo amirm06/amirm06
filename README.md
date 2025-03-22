@@ -13,7 +13,7 @@
 - 🎨 I enjoy drawing, both digitally and traditionally.  
 - 🏗 Exploring **full-stack development** for future projects.  
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50px" align="right">
+
 
 ---
 
