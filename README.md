@@ -8,7 +8,7 @@
 ---
 
 ### 🌟 About Me  
-<img src="https://media.tenor.com/YOUR_GIF_URL_HERE.gif" width="230px" align="right">
+<img src="https://tenor.com/view/saya-saya-no-uta-hi-gif-2815764108372679163" width="230px" align="right">
 - 🎓 **CS Student** at USTHB, passionate about **game development**.  
 - 🎮 Currently exploring the **LibGDX** framework.  
 - 🎨 I enjoy drawing, both digitally and traditionally.  
