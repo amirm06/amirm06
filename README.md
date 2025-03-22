@@ -8,12 +8,11 @@
 ---
 
 ### 🌟 About Me  
+<img src="https://media.tenor.com/YOUR_GIF_URL_HERE.gif" width="230px" align="right">
 - 🎓 **CS Student** at USTHB, passionate about **game development**.  
 - 🎮 Currently exploring the **LibGDX** framework.  
 - 🎨 I enjoy drawing, both digitally and traditionally.  
 - 🏗 Exploring **full-stack development** for future projects.  
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50px" align="right">
 
 ---
 
