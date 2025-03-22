@@ -32,6 +32,10 @@
 
 ---
 
+### 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_progress=false)
+
+
 
 ### 📫 Contact me on : 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=social&logo=facebook)](https://www.facebook.com/amira.rami.50309)  
