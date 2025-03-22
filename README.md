@@ -27,13 +27,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=amirm06&show_icons=true&theme=radical" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirm06&theme=radical" width="48%">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
 </p>
 
 ---
 
 ### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirm06&layout=compact&theme=tokyonight&hide_progress=false)
+
 
 
 
