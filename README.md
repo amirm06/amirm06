@@ -1,18 +1,17 @@
 <h1 align="center">Hello!!, I'm Amira :) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <h3 align="center">💻 USTHB Computer Science Student | I love drawing and creating small projects</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/amirm06?label=Followers&style=social" />
-</p>
+
 
 ---
 
 ### 🌟 About Me  
-<img src="https://tenor.com/view/saya-saya-no-uta-hi-gif-2815764108372679163" width="230px" align="right">
 - 🎓 **CS Student** at USTHB, passionate about **game development**.  
 - 🎮 Currently exploring the **LibGDX** framework.  
 - 🎨 I enjoy drawing, both digitally and traditionally.  
 - 🏗 Exploring **full-stack development** for future projects.  
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50px" align="right">
 
 ---
 
