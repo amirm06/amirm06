@@ -47,7 +47,8 @@
 
 
 ## 🏆 -------------\(⁠ㆁ⁠ω⁠ㆁ⁠)/-----------------
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=amirm06)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=amirm06&theme=dracula&column=3&margin-w=10&margin-h=10&no-bg=true&no-frame=true)
+
 
 ---
 
