@@ -45,6 +45,9 @@
   <img src="https://img.shields.io/badge/SQL-%230066B8.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 </p>
 
+
+## 🏆 -------------\(⁠ㆁ⁠ω⁠ㆁ⁠)/-----------------
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)
 ---
 
 ### 📫 Contact Me:  
