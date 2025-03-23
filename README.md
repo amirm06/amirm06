@@ -47,7 +47,8 @@
 
 
 ## 🏆 -------------\(⁠ㆁ⁠ω⁠ㆁ⁠)/-----------------
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amirm06&theme=radical&no-frame=true&no-bg=true&margin-w=5)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=amirm06)
+
 ---
 
 ### 📫 Contact Me:  
