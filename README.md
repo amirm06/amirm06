@@ -1,4 +1,4 @@
-<h1 align="center">Hello!!, I'm Amira :) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+9<h1 align="center">Hello!!, I'm Amira :) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 <h3 align="center">💻 USTHB Computer Science Student | I love drawing and creating small projects</h3>
 
 <p align="center">
@@ -47,7 +47,7 @@
 
 
 ## 🏆 -------------\(⁠ㆁ⁠ω⁠ㆁ⁠)/-----------------
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?amirm06=amirm06&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=amirm06&theme=radical&no-frame=true&no-bg=true&margin-w=5)
 ---
 
 ### 📫 Contact Me:  
