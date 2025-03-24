@@ -8,9 +8,9 @@
 ---
 
 ### 🌟 About Me  
-- 🎮 I use java don't judge   
+   
 - 🎨 I draw, both digitally and traditionally.  
-- 🏗 Exploring **you mother once more** for future projects.  
+    
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50px" align="right">
 
