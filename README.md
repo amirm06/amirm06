@@ -1,5 +1,5 @@
 <h1 align="center">Hello!!, I'm Amira :) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<h3 align="center">💻 USTHB Computer Science Student | I love drawing </h3>
+<h3 align="center">💻 SON OF A GUN!!! | I love drawing </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjltOGQ5czk5ZGk1bDJkODBvbDJwYm50MXM5NjlxeXFyZHBleTFhMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PkCDv7CIK8d2M/giphy.gif" width="200px">
@@ -8,9 +8,8 @@
 ---
 
 ### 🌟 About Me  
-- 🎓 **CS Student** at USTHB, passionate about **kms**.  
-- 🎮 Currently exploring the **your mom** frameworks.  
-- 🎨 I enjoy drawing, both digitally and traditionally.  
+- 🎮 I use java don't judge   
+- 🎨 I draw, both digitally and traditionally.  
 - 🏗 Exploring **you mother once more** for future projects.  
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50px" align="right">
