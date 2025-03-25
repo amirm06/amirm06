@@ -18,9 +18,7 @@
 ## 🚀 GitHub Stats  
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=amirm06&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" width="70%">  
-  <br>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirm06&theme=tokyonight&hide_border=true" width="70%">  
+  < src="https://github-readme-streak-stats.herokuapp.com/?user=amirm06&theme=tokyonight&hide_border=true" width="90%">  
 </p>  
 
 ---
