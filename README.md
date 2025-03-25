@@ -18,7 +18,7 @@
 ## 🚀 GitHub Stats  
 
 <p align="center">  
-  < src="https://github-readme-streak-stats.herokuapp.com/?user=amirm06&theme=tokyonight&hide_border=true" width="90%">  
+   src="https://github-readme-streak-stats.herokuapp.com/?user=amirm06&theme=tokyonight&hide_border=true" width="90%">  
 </p>  
 
 ---
