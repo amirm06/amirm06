@@ -40,5 +40,5 @@
 
 ## 🐍 My Contributions  
 <p align="center">  
-  <img src="https://github.com/amirm06/amirm06/blob/output/github-contribution-grid-snake.svg">  
+  <img src="https://github.com/amirm06/amirm06/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
