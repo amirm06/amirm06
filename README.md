@@ -32,7 +32,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23605642.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://camo.githubusercontent.com/aca95aa2f447d7f13f23a47b88e6eb655f5e5ea279b2a37da6eae2d2197aefe0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2e737667">
   <img src="https://img.shields.io/badge/HTML5-%236C745D.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-%23605548.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-%238C7C65.svg?style=for-the-badge&logo=javascript&logoColor=black">
