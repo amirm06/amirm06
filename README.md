@@ -12,7 +12,7 @@
 
 ## 🌟 About Me  
 - 🎨 I draw, both digitally and traditionally.  
-- 📚 I am a **Computer Science student**,  
+- 📚 I am a **Computer Science student**, 
 
 ---
 
@@ -31,23 +31,14 @@
 
 ---
 
-## 🛠️ Languages - Frameworks - Tools 🛠️  
-
+## 🛠️ Languages & Tools  
 <p align="center">  
-  <img src="https://img.shields.io/badge/Java-%23605642.svg?style=for-the-badge&logo=openjdk&logoColor=white">  
-  <img src="https://img.shields.io/badge/HTML5-%236C745D.svg?style=for-the-badge&logo=html5&logoColor=white">  
-  <img src="https://img.shields.io/badge/CSS3-%23605548.svg?style=for-the-badge&logo=css3&logoColor=white">  
-  <img src="https://img.shields.io/badge/JavaScript-%238C7C65.svg?style=for-the-badge&logo=javascript&logoColor=black">  
-  <img src="https://img.shields.io/badge/PHP-%23675550.svg?style=for-the-badge&logo=php&logoColor=white">  
-  <img src="https://img.shields.io/badge/MySQL-%23665F4D.svg?style=for-the-badge&logo=mysql&logoColor=white">  
-  <img src="https://img.shields.io/badge/SQL-%236C5F4A.svg?style=for-the-badge&logo=sqlite&logoColor=white">  
-  <img src="https://img.shields.io/badge/VSCode-%237A6E5E.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">  
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%235E5A49.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">  
-</p>
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,php,mysql,sqlite,git,vscode,intellij" />  
+</p>  
 
 ---
 
 ## 🐍 My Contributions  
 <p align="center">  
-  <img src="https://github.com/amirm06/amirm06/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/amirm06/amirm06/blob/output/github-contribution-grid-snake.svg">  
 </p>
