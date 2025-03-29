@@ -10,7 +10,7 @@
 ## 🌟 About Me  
 
 🎨 I draw, both digitally and traditionally.
-i like learning things 
+👾i like learning things 
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50px" align="right">  
 
@@ -18,7 +18,7 @@ i like learning things
 
 ---
 
-## 🎨 Most Used Languages  
+##  Most Used Languages  
 
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirm06&layout=compact&theme=ayu-mirage&hide_border=true&langs_count=8" width="60%">  
