@@ -13,16 +13,17 @@
 🎨 I draw, both digitally and traditionally.  
 👾 I love learning new things.  
 🎮 I enjoy working on small game projects.  
- 
+📚 Currently improving my **Java**, **SQL**, and **LWJGL** skills.  
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50px" align="right">  
 
 ---
 
-## 🚀 Most Used Languages  
+## 🚀 GitHub Stats  
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirm06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirm06&theme=tokyonight&hide_border=true" width="48%">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirm06&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%">  
 </p>  
 
 ---
@@ -34,15 +35,7 @@
 
 ---
 
-## 🏆 Contributions  
-
-<p align="center">  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirm06&theme=tokyonight" width="75%">  
-</p>  
-
----
-
-## 🏆  
+## 🏆 Trophy Showcase  
 
 <p align="center">  
   <img src="https://github-profile-trophy.vercel.app/?username=amirm06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="85%">  
@@ -54,6 +47,5 @@
 
 <p align="center">  
   <a href="https://github.com/amirm06"><img src="https://skillicons.dev/icons?i=github" /></a>  
-  <a href="https://www.linkedin.com/in/YOUR_LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>  
-  <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://skillicons.dev/icons?i=webflow" /></a>  
+  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://skillicons.dev/icons?i=discord" /></a>  
 </p>  
