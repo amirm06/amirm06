@@ -13,7 +13,7 @@
 🎨 I draw, both digitally and traditionally.  
 👾 I love learning new things.  
 🎮 I enjoy working on small game projects.  
-📚 Currently improving my **Java**, **SQL**, and **LWJGL** skills.  
+
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50px" align="right">  
 
