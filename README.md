@@ -30,8 +30,9 @@
 
 ## 🛠️ Languages & Tools  
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,php,mysql,sqlite,git,vscode,intellij,c,linux"/>  
-</p>  
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,php,mysql,sqlite,git,vscode,intellij,c,linux,dart,flutter"/>  
+</p>
+
 
 ---
 
