@@ -1,6 +1,6 @@
-<h1 align="center">Hello!!, I'm Amira :)  
+
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</h1>  
+
 
 <p align="center">  
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjltOGQ5czk5ZGk1bDJkODBvbDJwYm50MXM5NjlxeXFyZHBleTFhMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PkCDv7CIK8d2M/giphy.gif" width="200px">  
@@ -8,11 +8,7 @@
 
 ---
 
-## 🌟 About Me  
-
-🎨 I draw, both digitally and traditionally.  
-👾 I love learning new things.  
-🎮 I enjoy working on small game projects.  
+  
 
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50px" align="right">  
