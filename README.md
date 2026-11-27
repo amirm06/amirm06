@@ -1,5 +1,4 @@
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 
 <p align="center">  
@@ -30,19 +29,3 @@
 </p>
 
 
----
-
-## 🏆 Trophy Showcase  
-
-<p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=amirm06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="85%">  
-</p>  
-
----
-
-## 🌍 Where to Find Me  
-
-<p align="center">  
-  <a href="https://github.com/amirm06"><img src="https://skillicons.dev/icons?i=github" /></a>  
-  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://skillicons.dev/icons?i=discord" /></a>  
-</p>  
